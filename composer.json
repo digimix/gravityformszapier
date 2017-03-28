@@ -1,0 +1,11 @@
+{
+    "name": "digimix/gravityformszapier",
+    "description": "Private repo for loading the Gravity Forms Zapier WordPress plugin via Composer. Integrates Gravity Forms with Zapier, allowing form submissions to be automatically sent to your configured Zaps.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.5"
+    },
+    "version": "2.1",
+    "keywords": ["wordpress"],
+    "homepage": "https://www.gravityhelp.com/downloads/"
+    }
